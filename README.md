@@ -1,6 +1,6 @@
  # Hello Friends 👋
 
-# 🛠 Tools
+# 💻 Tech Stack
 <p
 align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a>
@@ -24,6 +24,8 @@ align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AGH11&theme=chartreuse-dark&hide_border=false)
 <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AGH11&layout=donut&theme=chartreuse-dark&hide_border=false)](https://github.com/AGH11/github-readme-stats)
+<br><br><br>
+[![](https://visitcount.itsvg.in/api?id=AGH11&icon=1&color=6)](https://visitcount.itsvg.in)
 
 <br><br><br>
 <br><br><br>
