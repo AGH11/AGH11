@@ -21,9 +21,9 @@
 
 # 🧾 Certifications
 <p align="left">
-<a href="https://cs50.harvard.edu/certificates/a166b4ae-e7ab-4dc0-a12a-350aabbc8596" target="_blank" rel="noreferrer"> <img src="https://github.com/AGH11/AGH11/blob/main/CS50x.png" alt="cs50x" width="120" height="120"/> </a> 
-<a href="https://cs50.harvard.edu/certificates/b1130285-793a-4c26-8eff-27264aa716c4" target="_blank" rel="noreferrer"> <img src="https://github.com/AGH11/AGH11/blob/main/CS50P.png" alt="cs50p" width="250" height="250"/> </a> 
-<a href="https://certificates.cs50.io/3b0e6e15-42ce-47ac-b703-1c6cbf07d9f5.pdf?size=letter" target="_blank" rel="noreferrer"> <img src="https://github.com/AGH11/AGH11/blob/main/CS50AI.png" alt="cs50ai" width="200" height="200"/> </a> 
+<a href="https://cs50.harvard.edu/certificates/a166b4ae-e7ab-4dc0-a12a-350aabbc8596" target="_blank" rel="noreferrer"> <img src="https://github.com/AGH11/AGH11/blob/main/CS50x.png" alt="cs50x" width="500" height="500"/> </a> 
+<a href="https://cs50.harvard.edu/certificates/b1130285-793a-4c26-8eff-27264aa716c4" target="_blank" rel="noreferrer"> <img src="https://github.com/AGH11/AGH11/blob/main/CS50P.png" alt="cs50p" width="500" height="500"/> </a> 
+<a href="https://certificates.cs50.io/3b0e6e15-42ce-47ac-b703-1c6cbf07d9f5.pdf?size=letter" target="_blank" rel="noreferrer"> <img src="https://github.com/AGH11/AGH11/blob/main/CS50AI.png" alt="cs50ai" width="500" height="500"/> </a> 
 </p>
 
 <br><br><br>
