@@ -1,8 +1,8 @@
  # Hello Friends 👋
 
 # 💻 Tech Stack
-<p
-align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60"/> </a>
@@ -21,7 +21,8 @@ align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"
 <br><br><br>
 
 # 🧾 Certifications
-<p>
+<p align="left">
+<a href="https://cs50.harvard.edu/certificates/a166b4ae-e7ab-4dc0-a12a-350aabbc8596" target="_blank" rel="noreferrer"> <img src="https://github.com/AGH11/AGH11/blob/main/CS50x.png" alt="cs50x" width="60" height="60"/> </a> 
  
 </p>
 
