@@ -20,6 +20,11 @@ align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"
 <br><br><br>
 <br><br><br>
 
+# 🧾 Certifications
+<p>
+ 
+</p>
+
 # 📊 Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AGH11&theme=chartreuse-dark&hide_border=false)
 <br><br><br>
