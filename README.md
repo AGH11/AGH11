@@ -1,4 +1,4 @@
- # Hello Friends 👋
+ # Hello 👋
 
 # 💻 Tech Stack
 <p align="left">
