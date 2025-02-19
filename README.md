@@ -4,6 +4,12 @@
 
 ---
 
+## 🚀 Featured Projects
+- [🔗 Heart_Attack_Classification](https://github.com/AGH11/Heart_Attack_Classification) - A short description.
+- [🔗 SudokuSolver](https://github.com/AGH11/SudokuSolver) - A short description.
+
+---
+
 ## 💻 Tech Stack
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> </a>
@@ -38,6 +44,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AGH11&layout=donut&theme=chartreuse-dark&hide_border=false" alt="Top Languages"/>
 </p>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AGH11&theme=react-dark)
+
+---
+
+## 📚 Currently Learning
+- 🔹 Reinforcement Learning
+- 🔹 Financial Data Analysis
+- 🔹 TensorFlow Advanced Models
+
+---
+
+## 🌟 Favorite Quote
+_"The best way to predict the future is to create it."_
+
 ---
 
 ## 📄 Resume
@@ -50,3 +70,5 @@
   <a href="https://www.linkedin.com/in/alireza-ghaderi-30998622a/" target="_blank"> <img src="linkedin.png" alt="LinkedIn" width="50"/> </a>
   <a href="https://t.me/Pylieza" target="_blank"> <img src="telegram.png" alt="Telegram" width="50"/> </a>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=AGH11&color=blueviolet)
