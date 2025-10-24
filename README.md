@@ -11,9 +11,9 @@
 * ----------------------------------------------------------------------------------------------------------------------------------
 -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/AGH11/AGH11/main/header.png" alt="Alireza Ghaderi - Software Developer | Data Scientist | AI & FinTech Innovator">
-</p>
+</p> -->
 
 <div align="center">
 
