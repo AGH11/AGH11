@@ -22,7 +22,7 @@
 
 <a href="https://www.linkedin.com/in/alireza-ghaderi-30998622a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AGH11.AGH11)
+
 
 </div>
 
